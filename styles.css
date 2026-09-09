@@ -21,20 +21,20 @@
   font-family: var(--title-font);
   font-size: 30px;
   font-weight: bold;
-  color: var(--detritus-green);
+  color: var(--crimson-bloom);
 }
 
 .title {
   font-family: var(--title-font);
   font-size: 25px;
   font-weight: bold;
-  color: var(--detritus-green);
+  color: var(--crimson-bloom);
 }
 
 .subtitle {
   font-family: var(--subtitle-font);
   font-size: 15px;
-  color: var(--detritus-green);
+  color: var(--crimson-bloom);
 }
 
 /* Base Styles */
@@ -95,7 +95,7 @@ nav {
 }
 
 .nav-links a:hover {
-  color: var(--detritus-green);
+  color: var(--crimson-bloom);
 }
 
 /* Button Styles */
@@ -105,7 +105,7 @@ nav {
   padding: 0.5rem 1.5rem;
   border: none;
   border-radius: 4px;
-  background-color: var(--detritus-green);
+  background-color: var(--crimson-bloom);
   color: white;
   cursor: pointer;
   transition: background-color 0.3s ease;
@@ -140,7 +140,7 @@ nav {
   font-family: var(--title-font);
   font-size: 30px;
   font-weight: bold;
-  color: var(--detritus-green);
+  color: var(--crimson-bloom);
   margin: 0;
 }
 
@@ -149,7 +149,7 @@ nav {
 .get-started-hero-content p {
   font-family: var(--subtitle-font);
   font-size: 15px;
-  color: var(--detritus-green);
+  color: var(--crimson-bloom);
   margin-bottom: 1rem;
 }
 
@@ -206,7 +206,7 @@ nav {
 .class-card h3 {
   font-family: var(--title-font);
   font-size: 20px;
-  color: var(--detritus-green);
+  color: var(--crimson-bloom);
   padding: 1rem;
   margin: 0;
 }
@@ -312,7 +312,7 @@ box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 .community-content {
   font-family: var(--subtitle-font);
   font-size: 15px;
-  color: var(--detritus-green);
+  color: var(--crimson-bloom);
   margin-bottom: 1rem;
 }
 
@@ -343,13 +343,13 @@ box-shadow: 0 4px 8px rgba(0,0,0,0.2);
   font-family: var(--title-font);
   font-size: 30px;
   font-weight: bold;
-  color: var(--detritus-green);
+  color: var(--crimson-bloom);
 }
 
 .program-content p {
   font-family: var(--subtitle-font);
   font-size: 15px;
-  color: var(--detritus-green);
+  color: var(--crimson-bloom);
 }
 
 .program-image img {
@@ -361,7 +361,7 @@ box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 
 .view-cart-button {
   padding: 0.5rem 1rem;
-  background-color: var(--detritus-green);
+  background-color: var(--crimson-bloom);
   color: white;
   border: none;
   border-radius: 4px;
@@ -454,7 +454,7 @@ box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 
 .form-group label {
   font-family: var(--body-font);
-  color: var(--detritus-green);
+  color: var(--crimson-bloom);
 }
 
 .form-group input,
@@ -472,7 +472,7 @@ box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 
 /* Footer */
 footer {
-  background-color: var(--detritus-green);
+  background-color: var(--crimson-bloom);
   color: white;
   padding: 4rem 5% 2rem;
 }
